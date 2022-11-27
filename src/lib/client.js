@@ -1,6 +1,6 @@
 import { createClient } from "microcms-js-sdk";
 
 export const client = createClient({
-	serviceDomain: "sampleblog0824",
+	serviceDomain: "myapp-sunabaco1126",
 	apiKey: process.env.API_KEY,
 });
